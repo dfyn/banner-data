@@ -3,18 +3,24 @@
       "image": "https://raw.githubusercontent.com/dfyn/banner-data/master/banner-background/burnBannerBG.png",
       "description": "50 Million $DFYN tokens were burnt",
       "transaction": "https://etherscan.io/tx/0x2285411b4ece226e5b68cff956d3e293c678037ce32c7f4d427c30f460cffad7",
-      "learnMore": "https://dfyn-network.medium.com/major-tokenomics-changes-in-dfyn-token-934fda5444f1"
+      "learnMore": "https://dfyn-network.medium.com/major-tokenomics-changes-in-dfyn-token-934fda5444f1",
+      "viewTransaction": " View Transaction",
+      "learnText": " Learn More"
     },
     {
       "image": "https://raw.githubusercontent.com/dfyn/banner-data/master/banner-background/testnetBannerWithText.svg",
       "description": "",
       "transaction": "https://etherscan.io/tx/0x2285411b4ece226e5b68cff956d3e293c678037ce32c7f4d427c30f460cffad7",
-      "learnMore": "https://dfyn-network.medium.com/major-tokenomics-changes-in-dfyn-token-934fda5444f1"
+      "learnMore": "https://dfyn-network.medium.com/major-tokenomics-changes-in-dfyn-token-934fda5444f1",
+      "viewTransaction": " View Transaction",
+      "learnText": " Learn More"
     },
     {
       "image": "https://raw.githubusercontent.com/dfyn/banner-data/master/banner-background/testnetBanner.svg",
       "description": "250 Million $DFYN tokens were burnt",
       "transaction": "https://etherscan.io/tx/0x2285411b4ece226e5b68cff956d3e293c678037ce32c7f4d427c30f460cffad7",
-      "learnMore": "https://dfyn-network.medium.com/major-tokenomics-changes-in-dfyn-token-934fda5444f1"
+      "learnMore": "https://dfyn-network.medium.com/major-tokenomics-changes-in-dfyn-token-934fda5444f1",
+      "viewTransaction": " View Transaction",
+      "learnText": " Learn More"
     }
   ]
