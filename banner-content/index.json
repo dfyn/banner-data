@@ -1,6 +1,6 @@
 [
   {
-    "image": "https://raw.githubusercontent.com/dfyn/banner-data/master/banner-background/testNetNew.svg",
+    "image": "https://raw.githubusercontent.com/dfyn/banner-data/master/banner-background/testNetNewS.svg",
     "description": "",
     "transaction": "https://testnet.routerprotocol.com/swap",
     "learnMore": "https://routerprotocol.medium.com/router-protocols-enhanced-testnet-is-now-live-6daf35e2d37c",
@@ -9,7 +9,7 @@
   },
    
     {
-      "image": "https://raw.githubusercontent.com/dfyn/banner-data/master/banner-background/limitOrder.svg",
+      "image": "https://raw.githubusercontent.com/dfyn/banner-data/master/banner-background/limitOrderS.svg",
       "description": "",
       "transaction": "https://etherscan.io/tx/0x2285411b4ece226e5b68cff956d3e293c678037ce32c7f4d427c30f460cffad7",
       "learnMore": "https://dfyn-network.medium.com/major-tokenomics-changes-in-dfyn-token-934fda5444f1",
@@ -17,7 +17,7 @@
       "learnText": ""
     },
     {
-      "image": "https://raw.githubusercontent.com/dfyn/banner-data/master/banner-background/burnBanner.svg",
+      "image": "https://raw.githubusercontent.com/dfyn/banner-data/master/banner-background/burnBannerS.svg",
       "description": "",
       "transaction": "https://etherscan.io/tx/0x2285411b4ece226e5b68cff956d3e293c678037ce32c7f4d427c30f460cffad7",
       "learnMore": "https://dfyn-network.medium.com/major-tokenomics-changes-in-dfyn-token-934fda5444f1",
