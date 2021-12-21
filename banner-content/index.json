@@ -16,6 +16,14 @@
     "viewTransaction": "Dfyn Farms",
     "learnText": "Learn More"
   },
+  {
+    "image": "https://raw.githubusercontent.com/dfyn/banner-data/master/banner-background/testNetNewU.svg",
+    "description": "",
+    "transaction": "https://testnet.routerprotocol.com/swap",
+    "learnMore": "https://routerprotocol.medium.com/router-protocols-enhanced-testnet-is-now-live-6daf35e2d37c",
+    "viewTransaction": "Try Now",
+    "learnText": "$10,000 in Incentives"
+  },
    
     {
       "image": "https://raw.githubusercontent.com/dfyn/banner-data/master/banner-background/limitOrderLiveU.svg",
