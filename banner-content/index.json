@@ -1,5 +1,12 @@
 [
-
+  {
+    "image": "https://raw.githubusercontent.com/dfyn/banner-data/master/banner-background/tradingComp.svg",
+    "description": "",
+    "transaction": "https://exchange.dfyn.network/#/trading-leaderboard",
+    "learnMore": "https://dfyn-network.medium.com/presenting-dfyns-trading-competition-phase-2-christmas-edition-a95f8b90fa18",
+    "viewTransaction": "Check Now",
+    "learnText": "More Info"
+  },
   {
     "image": "https://raw.githubusercontent.com/dfyn/banner-data/master/banner-background/fantonBannerNeww.svg",
     "description": "",
@@ -23,22 +30,5 @@
     "learnMore": "https://routerprotocol.medium.com/router-protocols-enhanced-testnet-is-now-live-6daf35e2d37c",
     "viewTransaction": "Try Now",
     "learnText": "$10,000 in Incentives"
-  },
-   
-    {
-      "image": "https://raw.githubusercontent.com/dfyn/banner-data/master/banner-background/limitOrderLiveU.svg",
-      "description": "",
-      "transaction": "https://exchange.dfyn.network/#/limit-order",
-      "learnMore": "https://dfyn-network.medium.com/dfyn-exchange-now-supports-limit-orders-d6695a9a82a2",
-      "viewTransaction": "Try Now",
-      "learnText": "Learn More"
-    },
-    {
-      "image": "https://raw.githubusercontent.com/dfyn/banner-data/master/banner-background/burnBannerU.svg",
-      "description": "",
-      "transaction": "https://etherscan.io/tx/0x2285411b4ece226e5b68cff956d3e293c678037ce32c7f4d427c30f460cffad7",
-      "learnMore": "https://dfyn-network.medium.com/major-tokenomics-changes-in-dfyn-token-934fda5444f1",
-      "viewTransaction": " View Transaction",
-      "learnText": " Learn More"
-    }
+  }
   ]
