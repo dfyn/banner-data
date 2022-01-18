@@ -1,11 +1,11 @@
 [
   {
-    "image": "https://raw.githubusercontent.com/dfyn/banner-data/master/banner-background/tradingComp.svg",
+    "image": "https://raw.githubusercontent.com/dfyn/banner-data/master/banner-background/updatedWesiteRouter.png",
     "description": "",
-    "transaction": "https://exchange.dfyn.network/#/trading-leaderboard",
-    "learnMore": "https://dfyn-network.medium.com/presenting-dfyns-trading-competition-phase-2-christmas-edition-a95f8b90fa18",
-    "viewTransaction": "Check Now",
-    "learnText": "More Info"
+    "transaction": "https://www.routerprotocol.com/",
+    "learnMore": "https://routerprotocol.medium.com/tech-update-whats-new-and-plans-for-mainnet-launch-9cdcc1c44fe8",
+    "viewTransaction": "Visit Now",
+    "learnText": "Tech Updates"
   },
   {
     "image": "https://raw.githubusercontent.com/dfyn/banner-data/master/banner-background/testNetNewU.svg",
