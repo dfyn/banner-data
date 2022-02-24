@@ -1,4 +1,11 @@
-[
+[{
+  "image": "https://raw.githubusercontent.com/dfyn/banner-data/master/banner-background/byof.svg",
+  "description": "",
+  "transaction": "https://exchange.dfyn.network/#/byof",
+  "learnMore": "https://medium.com/@dfyn-network/introducing-no-code-liquidity-farms-on-polygon-build-your-own-farms-byof-6b5bb889b935",
+  "viewTransaction": "Try Now",
+  "learnText": "Know More"
+},
   {
     "image": "https://raw.githubusercontent.com/dfyn/banner-data/master/banner-background/mainnet.svg",
     "description": "",
