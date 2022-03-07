@@ -1,26 +1,18 @@
-[{
+[
+  {
+    "image": "https://raw.githubusercontent.com/dfyn/banner-data/master/banner-background/avaxroute.svg",
+    "description": "",
+    "transaction": "https://app.routerprotocol.com/swap",
+    "learnMore": "https://routerprotocol.medium.com/router-protocol-integrates-avalanche-network-to-its-cross-chain-protocol-4692711e2e3d",
+    "viewTransaction": "Mainnet Link",
+    "learnText": "Know More"
+  },
+  {
   "image": "https://raw.githubusercontent.com/dfyn/banner-data/master/banner-background/byof.svg",
   "description": "",
   "transaction": "https://exchange.dfyn.network/#/byof",
   "learnMore": "https://medium.com/@dfyn-network/introducing-no-code-liquidity-farms-on-polygon-build-your-own-farms-byof-6b5bb889b935",
   "viewTransaction": "Try Now",
   "learnText": "Know More"
-},
-  {
-    "image": "https://raw.githubusercontent.com/dfyn/banner-data/master/banner-background/mainnet.svg",
-    "description": "",
-    "transaction": "https://app.routerprotocol.com/swap",
-    "learnMore": "https://routerprotocol.medium.com/router-protocols-enhanced-testnet-is-now-live-6daf35e2d37c",
-    "viewTransaction": "Mainnet Link",
-    "learnText": ""
-  },
-  {
-    "image": "https://raw.githubusercontent.com/dfyn/banner-data/master/banner-background/updatedWesiteRouterNew.svg",
-    "description": "",
-    "transaction": "https://www.routerprotocol.com/",
-    "learnMore": "https://routerprotocol.medium.com/tech-update-whats-new-and-plans-for-mainnet-launch-9cdcc1c44fe8",
-    "viewTransaction": "Visit Now",
-    "learnText": "Tech Updates"
   }
-  
-  ]
+]
