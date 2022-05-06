@@ -1,11 +1,11 @@
 [
   {
-    "image": "https://raw.githubusercontent.com/dfyn/banner-data/master/banner-background/cnwusdcfarm2.png",
+    "image": "https://raw.githubusercontent.com/dfyn/banner-data/master/banner-background/dfyn-6months.png",
     "description": "",
-    "transaction": "https://exchange.dfyn.network/#/custom-launch-farms/0xBc09C7714F8Ef8661B181eB1Fc6C863dedE8aB96",
-    "learnMore": "",
+    "transaction": "https://exchange.dfyn.network/#/vault/0x384249f6b345b5feab453558b1ca1713f953bf8e",
+    "learnMore": "https://dfyn-network.medium.com/introducing-dfyn-yield-farms-phase-13-4e9b5e21919d",
     "viewTransaction": "Add Liquidity",
-    "learnText": ""
+    "learnText": "Learn More"
   },
   {
     "image": "https://raw.githubusercontent.com/dfyn/banner-data/master/banner-background/avaxroute2.svg",
