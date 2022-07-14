@@ -1,18 +1,18 @@
 [
   {
-    "image": "https://raw.githubusercontent.com/dfyn/banner-data/master/banner-background/dfyn-6months.png",
+    "image": "https://raw.githubusercontent.com/dfyn/banner-data/master/banner-background/trava.svg",
     "description": "",
-    "transaction": "https://exchange.dfyn.network/#/vault/0x384249f6b345b5feab453558b1ca1713f953bf8e",
-    "learnMore": "https://dfyn-network.medium.com/introducing-dfyn-yield-farms-phase-13-4e9b5e21919d",
-    "viewTransaction": "Add Liquidity",
-    "learnText": "Learn More"
+    "transaction": "https://app.trava.finance/scoring/tokens-health",
+    "learnMore": "",
+    "viewTransaction": "Try it Here",
+    "learnText": ""
   },
   {
-  "image": "https://raw.githubusercontent.com/dfyn/banner-data/master/banner-background/byof.svg",
-  "description": "",
-  "transaction": "https://exchange.dfyn.network/#/byof",
-  "learnMore": "https://medium.com/@dfyn-network/introducing-no-code-liquidity-farms-on-polygon-build-your-own-farms-byof-6b5bb889b935",
-  "viewTransaction": "Try Now",
-  "learnText": "Know More"
+    "image": "https://raw.githubusercontent.com/dfyn/banner-data/master/banner-background/byof.svg",
+    "description": "",
+    "transaction": "https://exchange.dfyn.network/#/byof",
+    "learnMore": "https://medium.com/@dfyn-network/introducing-no-code-liquidity-farms-on-polygon-build-your-own-farms-byof-6b5bb889b935",
+    "viewTransaction": "Try Now",
+    "learnText": "Know More"
   }
 ]
